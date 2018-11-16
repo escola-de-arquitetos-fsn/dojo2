@@ -12,4 +12,4 @@ If you're using IntelliJ you can generate the IDE's files via:
 
  $ ./gradlew idea
 
-Open the file _build/asciidoc/reveal/dojo2-java11_ in your browser to see the generated revealjs file.
+Open the file _build/asciidoc/reveal/dojo2-java11.html_ in your browser to see the generated revealjs file.
