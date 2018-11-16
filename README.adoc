@@ -1,0 +1,15 @@
+= Escola de Arquitetos - Dojo #2 - Java 11
+
+== Usage
+
+Convert the AsciiDoc to reveal.js by invoking the 'asciidoctor' goal:
+
+ $ ./gradlew clean asciidoctor
+
+== IntelliJ
+
+If you're using IntelliJ you can generate the IDE's files via:
+
+ $ ./gradlew idea
+
+Open the file _build/asciidoc/reveal/dojo2-java11_ in your browser to see the generated revealjs file.
