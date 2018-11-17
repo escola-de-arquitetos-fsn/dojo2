@@ -58,7 +58,7 @@ asciidoctorj {
 asciidoctor {
     dependsOn jrubyPrepare, download
     sources {
-        include 'dojo2-java11.adoc'
+        include 'index.adoc'
     }
     resources {
         from (sourceDir) {
