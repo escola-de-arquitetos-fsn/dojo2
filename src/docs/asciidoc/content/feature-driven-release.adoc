@@ -9,11 +9,15 @@ dessa(s) feature(s).
 
 === Feature-driven Release - Vantagem
 
+[.right]
+image::tested-and-quality.png[certified ,246, 373]
 Dessa forma, pode-se liberar grandes e importantes novas features,
 com alto nível de qualidade, que foram testadas e revisadas previamente.
 
 === Feature-driven Release - Desvantagem
 
+[.right]
+image::waiting-skeleton.jpg[waiting, 400, 400]
 Pequenas features, que já foram implementadas, só serão liberadas, quando
 as grandes e importantes estiverem prontas.
 
