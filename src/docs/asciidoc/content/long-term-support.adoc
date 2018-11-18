@@ -1,0 +1,7 @@
+== Long-Term support
+
+Nesse modelo, a release long-term support é liberada a cada
+3 anos. Sendo que o Java 11 é a primeira release nesse modelo.
+
+É ideal para empresas com perfil mais conservador, que
+querem mudar no seu próprio tempo, ou seja, sem correria.

@@ -1,0 +1,38 @@
+== O que é pago e o que continua free?
+
+.Oracle JDK
+
+Oracle JDK é free para ser utilizado em sistemas não comerciais,
+e qualquer ambiente que não seja produção.
+
+Em qualquer outra situação, para utilizá-lo, você terá que
+pagar uma subscrição, que lhe dará direito a receber
+atualizações e patchs de segurança pelo tempo de duração
+da respectiva LTS.
+
+=== O que é pago e o que continua free?
+
+.Oracle's OpenJDK
+
+Pode-se utilizá-lo livremente. A única desvantagem ou não, é que
+ele só receberá updates até o lançamento da próxima versão.
+
+Na virada de versão, o desenvolvedor tem duas opções, ou continua
+com a mesma versão, mas sem updates, ou então faz a migração para
+a nova versão.
+
+Tornou-se o JDK padrão. A Oracle cuidou, para que fosse o mais
+compatível possível com o Oracle JDK.
+
+=== O que é pago e o que continua free?
+
+.Outros JDK Providers
+
+Existem outros JDKs disponíveis como: AdoptOpenJDK, Azul, IBM,
+Red Hat, Linux distros, etc.
+
+Fica a cargo do desenvolvedor verificar as características de
+cada um.
+
+Cada provider decide a quantidade de updates, e até mesmo
+se terá a sua própria LTS.

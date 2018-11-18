@@ -1,0 +1,32 @@
+== Java 11 - APIs Adicionadas: Local-Variable Syntax for Lambda Parameters
+
+[source, java]
+.Java 10
+----
+// String name = "Filipe dos Santo Nascimento"
+var name = "Filipe dos Santos Nascimento";
+
+// Lambda - Tipo Explícito
+DoubleBinaryOperator divisao = (double x, double y) -> x / y;
+
+// Lambda - Tipo Implícito
+DoubleBinaryOperator divisao = (x, y) -> x / y;
+----
+
+=== Java 11 - APIs Adicionadas: Local-Variable Syntax for Lambda Parameters
+
+[source, java]
+.Java 11
+----
+// Lambda - Tipo Implícito
+DoubleBinaryOperator divisao = (var x, var y) -> x / y;
+----
+
+=== Java 11 - APIs Adicionadas
+
+[%step]
+* Nova biblioteca HTTP, que padroniza a API e permite suporte HTTP/1.1 e HTTP/2.
+* TLS 1.2 - Implementação da nova versão recentemente padronizada do Transport
+Layer Security.
+* Atualização da API de Criptografia.
+* Novo UTF baseado na especificação 10.0.

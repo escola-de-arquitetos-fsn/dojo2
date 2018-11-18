@@ -1,0 +1,30 @@
+== Time-driven release (Train release)
+
+[%step]
+* A primeira tentativa considerou um formato de novas
+versões a cada 2 anos.
+* Qualquer feature, pequena ou grande, seria mergeada
+assim que tivesse quase pronta.
+* Se a feature não tivesse pronta, ela perdia o trem, mas
+entrava no próximo.
+
+=== Time-driven release (Train release) - Desvantagem
+
+Em teoria, esse formato parecia bem interessante, mas não foi
+muito bem na prática, pois 2 anos, pareceram tempo demais.
+
+No caso do Java 8, preferiram atrasar mais 8 meses, pois as APIs
+de Lambdas, Stream  e outros recursos não estavam prontos. No caso 
+do Java 9, eles preferiram esperar a feature Jigsaw ficar pronta.
+
+Ou seja, era preferível aguardar mais alguns meses ou 1 ano, do
+que esperar mais 2 anos para a próxima release.
+
+=== Time-driven release (Train release) - Novo Formato
+
+Depois das experiências que tiveram com as releases do Java 8 e 9
+eles definiram um novo plano de release.
+
+Ao invés de 2 anos, agora as feature releases acontecerão a cada
+6 meses, e a cada trimestre as update-releases e a cada 3 anos
+as long-term support releases.

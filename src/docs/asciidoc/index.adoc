@@ -1,82 +1,34 @@
-= Example Deck
-Doc Writer <doc.writer@example.org>
-2014-09-09
+= Escola de Arquitetos: Dojo #2 - Java 11
+Filipe dos Santos Nascimento <fsnascimento@stefanini.com>
+2018-11-12
 :revnumber: {project-version}
 :example-caption!:
 ifndef::imagesdir[:imagesdir: images]
 ifndef::sourcedir[:sourcedir: ../java]
 
-== Introduction
+// Agenda
+include::content/agenda.adoc[]
 
-[%step]
-* This is an example deck.
-* This deck teaches something.
-* We just haven't decided what that is yet.
+// Feature-driven Release
+include::content/feature-driven-release.adoc[]
 
-== Speaker Notes
+// Releases
+include::content/releases.adoc[]
 
-Press the `*s*` key to access speaker notes.
+// Time-driven Release
+include::content/time-driven-release.adoc[]
 
-[NOTE.speaker]
---
-You've unlocked the super secret notes area.
-Neat huh?
---
+// Long-term Support
+include::content/long-term-support.adoc[]
 
-== Source Code
+// O que é pago e o que continua free?
+include::content/pago-ou-free.adoc[]
 
-[source,java]
-.Java code from project
-----
-include::{sourcedir}/example/StringUtils.java[tags=contains,indent=0]
-----
+// Java 11 - APIs Removidas
+include::content/java11-apis-removidas.adoc[]
 
-This page was built by the following command:
+// Java 11 - APIs Adicionadas
+include::content/java11-apis-adicionadas.adoc[]
 
- $ ./gradlew asciidoctor
-
-== Blank screen
-
-You can press `*b*` or `*.*` to blank your current screen.
-
-Hit it again to bring it back.
-
-== Overview
-
-Press the `*esc*` key to get an overview of your slides.
-
-== Including documents from subdir
-
-.include::subdir/_b.adoc[]
-
-include::subdir/_b.adoc[]
-
-== Images
-
-[.thumb]
-image::sunset.jpg[scaledwidth=75%]
-
-== Attributes
-
-Press the down arrow key to see the next sub-slide.
-
-=== Attributes Part 1
-.Built-in
-asciidoctor-version:: {asciidoctor-version}
-safe-mode-name:: {safe-mode-name}
-docdir:: {docdir}
-docfile:: {docfile}
-imagesdir:: {imagesdir}
-
-=== Attributes Part 2
-.Custom
-project-version:: {project-version}
-sourcedir:: {sourcedir}
-endpoint-url:: {endpoint-url}
-
-== build.gradle
-
-[source,groovy]
-----
-include::{build-gradle}[]
-----
+// Fim
+include::content/fim.adoc[]

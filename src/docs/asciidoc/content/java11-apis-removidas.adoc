@@ -1,0 +1,6 @@
+== Java 11 - APIs Removidas
+
+* CORBA
+* Java EE
+* JavaFX
+* Applets e Web Start
