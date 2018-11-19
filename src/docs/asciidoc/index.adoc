@@ -1,0 +1,34 @@
+= Escola de Arquitetos: Dojo #2 - Java 11
+Filipe dos Santos Nascimento <fsnascimento@stefanini.com>
+2018-11-12
+:revnumber: {project-version}
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+ifndef::sourcedir[:sourcedir: ../java]
+
+// Agenda
+include::content/agenda.adoc[]
+
+// Feature-driven Release
+include::content/feature-driven-release.adoc[]
+
+// Releases
+include::content/releases.adoc[]
+
+// Time-driven Release
+include::content/time-driven-release.adoc[]
+
+// Long-term Support
+include::content/long-term-support.adoc[]
+
+// O que é pago e o que continua free?
+include::content/pago-ou-free.adoc[]
+
+// Java 11 - APIs Removidas
+include::content/java11-apis-removidas.adoc[]
+
+// Java 11 - APIs Adicionadas
+include::content/java11-apis-adicionadas.adoc[]
+
+// Fim
+include::content/fim.adoc[]

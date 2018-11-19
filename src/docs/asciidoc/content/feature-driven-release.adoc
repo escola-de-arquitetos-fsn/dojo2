@@ -1,0 +1,35 @@
+== Feature-driven Release
+
+Por muito tempo, as releases da plataforma Java SE e do JDK,
+foram irregulares e imprevisíveis.
+
+Cada release continha uma ou algumas feature(s) importante(s) e
+a data de release era ajustada de forma a acomodar o desenvolvimento 
+dessa(s) feature(s).
+
+=== Feature-driven Release - Vantagem
+
+[.right]
+image::tested-and-quality.png[certified ,246, 373]
+Dessa forma, pode-se liberar grandes e importantes novas features,
+com alto nível de qualidade, que foram testadas e revisadas previamente.
+
+=== Feature-driven Release - Desvantagem
+
+[.right]
+image::waiting-skeleton.jpg[waiting, 400, 400]
+Pequenas features, que já foram implementadas, só serão liberadas, quando
+as grandes e importantes estiverem prontas.
+
+=== Feature-drive Release
+
+Essa escolha era aceitável enquanto Java competia com poucas
+outras plataformas que andavam no mesmo passo.
+
+Esse modelo de release, tornou-se impraticável, pois surgiu
+um grande número de outras plataformas, que trouxeram grandes
+inovações e evoluiam muito rápido.
+
+Para o Java continuar competitivo, precisou mudar a sua
+estratégia de release para continuar evoluindo, mas de uma 
+forma rápida.
