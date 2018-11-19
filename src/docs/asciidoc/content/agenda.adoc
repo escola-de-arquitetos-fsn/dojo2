@@ -1,0 +1,9 @@
+== Agenda
+
+* Java Releases
+** Feature-driven releases
+** Time-driven releases (release train)
+** Long-term support
+* Java 11
+** Features Removidas
+** Novas Features

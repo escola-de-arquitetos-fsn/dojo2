@@ -1,0 +1,6 @@
+== Releases - Desejos e Expectativas
+
+[%step]
+* Desenvolvedores: Preferem inovações rápidas.
+* Empresas: Preferem estabilidade.
+* Ambos: Preferem releases regulares e previsíveis.
